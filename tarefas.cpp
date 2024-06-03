@@ -42,7 +42,7 @@ using namespace std;
             sleep(1);
             cout << "[■■■■■□□□□□] 50%" << endl;
             sleep(1);
-            cout << "[■■■■■■□□□□] 60%" << endl;
+            cout << "[■■■■■■□□□□] 60%" << endl;  
             sleep(1);
             cout << "[■■■■■■■□□□] 70%" << endl;
             sleep(1);
